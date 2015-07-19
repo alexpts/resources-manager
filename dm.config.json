@@ -1,0 +1,14 @@
+var declarationsDeps = {
+	projects: {
+		resource: {
+			name: 'resourecs.js',
+			url: '/modules/resourecs.js',
+			callback: function () {}
+		},
+		constructor: 'universal detect from resources' // как определить конструктор и он не всегда есть
+		arguments: ['popcorn'],
+		calls: {
+			thod: ['test']
+		}
+	}
+};
