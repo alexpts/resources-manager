@@ -1,5 +1,6 @@
 # resources-manager
-```var loader = new Loader();
+```javascript
+var loader = new Loader();
 var inhectors = new Injector();
 injectors = {
 	css: inhectors.injectCss,
